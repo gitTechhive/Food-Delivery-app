@@ -1,0 +1,69 @@
+{
+  "order_history_list": [
+    {
+      "name": "Big Garden Salad",
+      "qty": 3,
+      "distance": "1.4 km",
+      "price": "32.00",
+      "status": "Active",
+      "image": "https://i.ibb.co/cQyd6gR/Mask-Group-11.png",
+      "payment_type": "Paid"
+    },
+    {
+      "name": "Bite Me Sandwiches",
+      "qty": 3,
+      "distance": "1.4 km",
+      "price": "32.00",
+      "status": "Cancelled",
+      "image": "https://i.ibb.co/cCvjBTN/Mask-Group-4.png"
+    },
+    {
+      "name": "Life of Salad",
+      "qty": 4,
+      "distance": "2.5 km",
+      "price": "24.00",
+      "status": "Cancelled",
+      "image": "https://i.ibb.co/n0sfsmX/Mask-Group-5.png"
+    },
+    {
+      "name": "Toro Toro Nabati",
+      "qty": 2,
+      "distance": "2.0 km",
+      "price": "28.50",
+      "status": "Cancelled",
+      "image": "https://i.ibb.co/nD8Yd1y/Mask-Group-6.png"
+    },
+    {
+      "name": "Jamaca La Salad",
+      "qty": 3,
+      "distance": "1.7 km",
+      "price": "22.00",
+      "status": "Cancelled",
+      "image": "https://i.ibb.co/60j2Vcg/Mask-Group-7.png"
+    },
+    {
+      "name": "Zero Zero Noodles",
+      "qty": 3,
+      "distance": "1.4 km",
+      "price": "32.00",
+      "status": "Completed",
+      "image": "https://i.ibb.co/3rCjxZ1/Mask-Group.png"
+    },
+    {
+      "name": "Eats Meets West",
+      "qty": 4,
+      "distance": "2.5 km",
+      "price": "24.00",
+      "status": "Completed",
+      "image": "https://i.ibb.co/n0sfsmX/Mask-Group-5.png"
+    },
+    {
+      "name": "Gardenica Salad",
+      "qty": 2,
+      "distance": "2.0 km",
+      "price": "28.50",
+      "status": "Completed",
+      "image": "https://i.ibb.co/y6qFYJt/Rectangle.png"
+    }
+  ]
+}

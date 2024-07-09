@@ -1,0 +1,124 @@
+{
+  "food_category": [
+    {
+      "id": 1,
+      "name": "Burgers",
+      "image": "https://i.ibb.co/qrp7mWq/Burgers.png"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "image": "https://i.ibb.co/D5DzHbs/Pizza.png"
+    },
+    {
+      "id": 3,
+      "name": "Noodles",
+      "image": "https://i.ibb.co/njbcynX/Noodles.png"
+    },
+    {
+      "id": 4,
+      "name": "Meat",
+      "image": "https://i.ibb.co/ct2sJyL/Meat.png"
+    },
+    {
+      "id": 5,
+      "name": "Vegetable",
+      "image": "https://i.ibb.co/g4GtTxp/Vegetable.png"
+    },
+    {
+      "id": 6,
+      "name": "Dessert",
+      "image": "https://i.ibb.co/ZX5hkdd/Dessert.png"
+    },
+    {
+      "id": 7,
+      "name": "Drink",
+      "image": "https://i.ibb.co/Pm1XtV6/Drink.png"
+    },
+    {
+      "id": 8,
+      "name": "Bread",
+      "image": "https://i.ibb.co/f05PzMS/Bread.png"
+    },
+    {
+      "id": 9,
+      "name": "Croissant",
+      "image": "https://i.ibb.co/tqNDWhh/Croissant.png"
+    },
+    {
+      "id": 10,
+      "name": "Pancakes",
+      "image": "https://i.ibb.co/rs1c3VR/Pancakes.png"
+    },
+    {
+      "id": 11,
+      "name": "Cheese",
+      "image": "https://i.ibb.co/pPN2193/Cheese.png"
+    },
+    {
+      "id": 12,
+      "name": "French Fries",
+      "image": "https://i.ibb.co/XbVHvg3/French-Fries.png"
+    },
+    {
+      "id": 13,
+      "name": "Sandwich",
+      "image": "https://i.ibb.co/gMVWd9K/Sandwich.png"
+    },
+    {
+      "id": 14,
+      "name": "Taco",
+      "image": "https://i.ibb.co/3kT6yxF/Taco.png"
+    },
+    {
+      "id": 15,
+      "name": "Pot of Food",
+      "image": "https://i.ibb.co/KsJYMWh/Pot-of-Food.png"
+    },
+    {
+      "id": 16,
+      "name": "Salad",
+      "image": "https://i.ibb.co/0yJ27Bm/Salad.png"
+    },
+    {
+      "id": 17,
+      "name": "Bento",
+      "image": "https://i.ibb.co/8zjh0yR/Bento.png"
+    },
+    {
+      "id": 18,
+      "name": "Cooked Rice",
+      "image": "https://i.ibb.co/Ctmymrx/Cooked-Rice.png"
+    },
+    {
+      "id": 19,
+      "name": "Spaghetti",
+      "image": "https://i.ibb.co/wcd8G6y/Spaghetti.png"
+    },
+    {
+      "id": 20,
+      "name": "Sushi",
+      "image": "https://i.ibb.co/31hdhw5/Sushi.png"
+    },
+    {
+      "id": 21,
+      "name": "Ice Cream",
+      "image": "https://i.ibb.co/rHnzzGF/Ice-Cream.png"
+    },
+    {
+      "id": 22,
+      "name": "Cookies",
+      "image": "https://i.ibb.co/4J8mLqZ/Cookies.png"
+    },
+    {
+      "id": 23,
+      "name": "Beverage",
+      "image": "https://i.ibb.co/1L565f3/Beverage.png"
+    },
+    {
+      "id": 24,
+      "name": "Others",
+      "image": "https://i.ibb.co/z8RKy0w/Others.png"
+    }
+  ]
+}

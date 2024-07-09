@@ -1,0 +1,33 @@
+{
+  "message_list": [
+    {
+      "message": "Hello, good afternoon Andrew... \uD83D\uDE01",
+      "isSender": false,
+      "date_time": "2024-06-26T10:00:00Z"
+    },
+    {
+      "message": "I'm Rayford, I'll be right over and take your order. Please wait... ⌛\uFE0F\uD83D\uDE01",
+      "isSender": false,
+      "date_time": "2024-06-26T10:00:00Z"
+    },
+    {
+      "message": "Hello Rayford, ok I will be waiting for you in front of my house. You can immediately notify me when it arrives \uD83D\uDE04",
+      "isSender": true,
+      "date_time": "2024-06-26T10:00:00Z"
+    },
+    {
+      "message": "",
+      "isSender": true,
+      "images": [
+        "https://i.ibb.co/kQCzS29/Image-6.png",
+        "https://i.ibb.co/9vZsJvz/Image-5.png"
+      ],
+      "date_time": "2024-06-26T10:00:00Z"
+    },
+    {
+      "message": "Great! I will arrive soon...",
+      "isSender": false,
+      "date_time": "2024-06-26T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "address_list": [
+    {
+      "add_type": "Home",
+      "address": "Times Square NYC, Manhattan, 27",
+      "isDefault": true
+    },
+    {
+      "add_type": "My Office",
+      "address": "5259 Blue Bill Park, PC 4627",
+      "isDefault": false
+    },
+    {
+      "add_type": "My Apartment",
+      "address": "21833 Clyde Gallagher, PC 4662",
+      "isDefault": false
+    },
+    {
+      "add_type": "Parent’s House",
+      "address": "6993 Meadow Valley Terra, PC 36",
+      "isDefault": false
+    },
+    {
+      "add_type": "My Villa",
+      "address": "61480 Sunbrook Park, PC 5679",
+      "isDefault": false
+    }
+  ]
+}

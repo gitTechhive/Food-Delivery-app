@@ -1,0 +1,94 @@
+{
+  "chat_list": [
+    {
+      "image": "https://i.ibb.co/8jMCnBS/Type-Default-Component-Avatar-2.png",
+      "user_name": "Rayford Chenail",
+      "message": "Great! I will arrive soon...",
+      "unread_msg_count": 2,
+      "date_time": "16:01",
+      "message_list": [
+        {
+          "message": "Hello, good afternoon Andrew... \uD83D\uDE01",
+          "isSender": false
+        },
+        {
+          "message": "I'm Rayford, I'll be right over and take your order. Please wait... ⌛\uFE0F\uD83D\uDE01",
+          "isSender": false
+        },
+        {
+          "message": "Hello Rayford, ok I will be waiting for you in front of my house. You can immediately notify me when it arrives \uD83D\uDE04",
+          "isSender": true
+        },
+        {
+          "message": "",
+          "isSender": true,
+          "images": [
+            "https://i.ibb.co/kQCzS29/Image-6.png",
+            "https://i.ibb.co/9vZsJvz/Image-5.png"
+          ]
+        },
+        {
+          "message": "Great! I will arrive soon...",
+          "isSender": false
+        }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/gb2yWnd/Ellipse-1.png",
+      "user_name": "Natasya Wilodra",
+      "message": "My order hasn’t arrived yet \uD83E\uDD14",
+      "unread_msg_count": 1,
+      "date_time": "14:45"
+    },
+    {
+      "image": "https://i.ibb.co/M5sN9GX/Type-Default-Component-Avatar-2.png",
+      "user_name": "Clinton Mcclure",
+      "message": "omg, this is amazing \uD83E\uDD29",
+      "unread_msg_count": 0,
+      "date_time": "10:38"
+    },
+    {
+      "image": "https://i.ibb.co/qYL4fhy/Type-Default-Component-Avatar-3.png",
+      "user_name": "Elmer Laverty",
+      "message": "Wow, this is really epic \uD83D\uDD25\uD83D\uDD25",
+      "unread_msg_count": 2,
+      "date_time": "Yesterday"
+    },
+    {
+      "image": "https://i.ibb.co/Kb9bGcz/Type-Default-Component-Avatar-4.png",
+      "user_name": "Clinton Mcclure",
+      "message": "Will the contract be sent? \uD83E\uDD14",
+      "unread_msg_count": 0,
+      "date_time": "12/22/2022"
+    },
+    {
+      "image": "https://i.ibb.co/Fs3vFX9/Ellipse-2.png",
+      "user_name": "Aileen Fullbright",
+      "message": "just ideas for next time",
+      "unread_msg_count": 0,
+      "date_time": "12/22/2022"
+    },
+    {
+      "image": "https://i.ibb.co/NxHDc2T/Type-Default-Component-Avatar-5.png",
+      "user_name": "Sanjuanita Ordonez",
+      "message": "Haha that's terrifying \uD83D\uDE02",
+      "unread_msg_count": 0,
+      "date_time": "12/22/2022"
+    },
+    {
+      "image": "https://i.ibb.co/WKDDbPB/Type-Default-Component-Avatar-6.png",
+      "user_name": "Florencio Dorrance",
+      "message": "I'll be there in 2 mins ⏱",
+      "unread_msg_count": 0,
+      "date_time": "12/22/2022"
+    }
+  ]
+}
+
+
+
+
+
+
+
+

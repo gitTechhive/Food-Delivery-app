@@ -1,0 +1,103 @@
+{
+  "restaurant_list": [
+    {
+      "cat_id": 1,
+      "name": "Burger Smokehouse",
+      "distance": "1.2 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/9ws2TgF/Rectangle.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Backyard Burgers",
+      "distance": "800m",
+      "price": "2",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": false,
+      "isDiscount": false,
+      "image": "https://i.ibb.co/C6nfGBY/Mask-Group.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Burger Basement",
+      "distance": "1.2 km",
+      "price": "1.30",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": false,
+      "image": "https://i.ibb.co/3R4RztW/Mask-Group-1.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Beefcakes Burgers",
+      "distance": "1.2 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/5cWX7VR/Rectangle-1.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Toasty Buns Burgers",
+      "distance": "1.6 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": false,
+      "isDiscount": false,
+      "image": "https://i.ibb.co/d2ZHRZd/Mask-Group-2.png"
+    },
+    {
+      "cat_id": 2,
+      "name": "Pizza Toss Pizzeria",
+      "distance": "1.6 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/G9fGh5t/Mask-Group-3.png"
+    },
+    {
+      "cat_id": 2,
+      "name": "Slice of Heaven",
+      "distance": "1.6 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": false,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/qmgxC4X/Rectangle-3.png"
+    },
+    {
+      "cat_id": 2,
+      "name": "Golden Globe Pizza",
+      "distance": "1.6 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": false,
+      "image": "https://i.ibb.co/MnKPvmS/Mask-Group-4.png"
+    },
+    {
+      "cat_id": 2,
+      "name": "Tower of Pizza",
+      "distance": "1.6 km",
+      "price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": false,
+      "image": "https://i.ibb.co/JRrJKkR/Rectangle-4.png"
+    }
+  ]
+}

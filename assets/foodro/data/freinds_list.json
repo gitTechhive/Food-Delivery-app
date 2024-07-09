@@ -1,0 +1,54 @@
+{
+  "friends_list": [
+    {
+      "name": "Lauralee Quintero",
+      "image": "https://i.ibb.co/4tbHJWk/Type-Default-Component-Avatar.png",
+      "phoneNumber": "+1-300-555-0135"
+    },
+    {
+      "name": "Annabel Rohan",
+      "image": "https://i.ibb.co/gb2yWnd/Ellipse-1.png",
+      "phoneNumber": "+1-202-555-0136"
+    },
+    {
+      "name": "Alfonzo Schuessler",
+      "image": "https://i.ibb.co/M5sN9GX/Type-Default-Component-Avatar-2.png",
+      "phoneNumber": "+1-300-555-0119"
+    },
+    {
+      "name": "Augustina Midgett",
+      "image": "https://i.ibb.co/bs62dqB/Ellipse.png",
+      "phoneNumber": "+1-300-555-0161"
+    },
+    {
+      "name": "Freida Varnes",
+      "image": "https://i.ibb.co/Kb9bGcz/Type-Default-Component-Avatar-4.png",
+      "phoneNumber": "+1-300-555-0136"
+    },
+    {
+      "name": "Francene Vandyne",
+      "image": "https://i.ibb.co/NxHDc2T/Type-Default-Component-Avatar-5.png",
+      "phoneNumber": "+1-202-555-0167"
+    },
+    {
+      "name": "Geoffrey Mott",
+      "image": "https://i.ibb.co/qYL4fhy/Type-Default-Component-Avatar-3.png",
+      "phoneNumber": "+1-202-555-0119"
+    },
+    {
+      "name": "Rayford Chenail",
+      "image": "https://i.ibb.co/WKDDbPB/Type-Default-Component-Avatar-6.png",
+      "phoneNumber": "+1-202-555-0171"
+    },
+    {
+      "name": "Florencio Dorrance",
+      "image": "https://i.ibb.co/8jMCnBS/Type-Default-Component-Avatar-2.png",
+      "phoneNumber": "+1-300-555-0171"
+    },
+    {
+      "name": "Kylee Danford",
+      "image": "https://i.ibb.co/Fs3vFX9/Ellipse-2.png",
+      "phoneNumber": "+1-300-666-0171"
+    }
+  ]
+}

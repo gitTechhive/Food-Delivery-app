@@ -1,0 +1,24 @@
+{
+  "special_offer_list": [
+    {
+      "image": "https://i.ibb.co/h1XdXrh/Special-Offers.png",
+      "discount": "30%",
+      "validity": "valid for today!"
+    },
+    {
+      "image": "https://i.ibb.co/9Tsb7gH/Special-Offers-1.png",
+      "discount": "20%",
+      "validity": "valid for today!"
+    },
+    {
+      "image": "https://i.ibb.co/R29kTbK/Special-Offers-2.png",
+      "discount": "25%",
+      "validity": "valid for today!"
+    },
+    {
+      "image": "https://i.ibb.co/mN1LFbv/Special-Offers-3.png",
+      "discount": "50%",
+      "validity": "valid for today!"
+    }
+  ]
+}

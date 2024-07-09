@@ -1,0 +1,64 @@
+{
+  "restaurant_list": [
+    {
+      "cat_id": 1,
+      "name": "Special Bound Salad",
+      "distance": "1.2 km",
+      "price": "6",
+      "distance_price": "1.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/2vGbGb2/Rectangle-1.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Special Pasta Salad",
+      "distance": "800m",
+      "price": "5.50",
+      "distance_price": "2.00",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": false,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/3d8VL1X/Rectangle-2.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Burger Basement",
+      "distance": "1.2 km",
+      "price": "5.50",
+      "distance_price": "2.00",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/3R4RztW/Mask-Group-1.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Beefcakes Burgers",
+      "distance": "1.2 km",
+      "price": "7",
+      "distance_price": "2.50",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": true,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/5cWX7VR/Rectangle-1.png"
+    },
+    {
+      "cat_id": 1,
+      "name": "Toasty Buns Burgers",
+      "distance": "1.6 km",
+      "price": "6",
+      "distance_price": "2.00",
+      "rating": 4.5,
+      "reviews": "19.k",
+      "isFavorite": false,
+      "isDiscount": true,
+      "image": "https://i.ibb.co/d2ZHRZd/Mask-Group-2.png"
+    }
+  ]
+}

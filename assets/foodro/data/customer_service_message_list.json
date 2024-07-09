@@ -1,0 +1,34 @@
+{
+  "message_list": [
+    {
+      "message": "Hello, good morning.",
+      "isSender": false,
+      "date_time": "2024-06-25T10:00:00Z"
+    },
+    {
+      "message": "I am a Customer Service, is there anything I can help you with? \uD83D\uDE04",
+      "isSender": false,
+      "date_time": "2024-06-25T10:05:00Z"
+    },
+    {
+      "message": "Hi, I'm having problems with my payment.",
+      "isSender": true,
+      "date_time": "2024-06-25T11:00:00Z"
+    },
+    {
+      "message": "Can you help me?",
+      "isSender": true,
+      "date_time": "2024-06-25T11:00:00Z"
+    },
+    {
+      "message": "Of course...",
+      "isSender": false,
+      "date_time": "2024-06-26T10:00:00Z"
+    },
+    {
+      "message": "Can you tell me the problem you are having? so I can help solve it \uD83D\uDE01",
+      "isSender": false,
+      "date_time": "2024-06-26T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "order_list": [
+    {
+      "qty": 1,
+      "name": "Mixed Vegetable Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": true,
+      "isNew": false,
+      "image": "https://i.ibb.co/3rCjxZ1/Mask-Group.png",
+      "description": "Mixed Vegetable Salad is a nutritious and colorful dish that combines a variety of fresh vegetables, tossed together with a zesty dressing, creating a refreshing and satisfying salad. This salad is versatile and can be customized based on the availability of seasonal vegetables and personal preferences. Packed with vitamins, minerals, and fiber, this salad is not only delicious but also promotes health and wellness"
+    },
+    {
+      "qty": 1,
+      "name": "Fruit & Spice Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/y6qFYJt/Rectangle.png",
+      "description": "Fruit & Spice Salad is a refreshing and flavorful dish that combines a variety of fresh fruits with a hint of warm spices, creating a delightful balance of sweet and savory flavors. This salad is perfect for any occasion, whether it's a light and healthy breakfast, a vibrant side dish for lunch, or a refreshing dessert option. With its colorful presentation and aromatic spices, this salad is sure to impress both family and guests alike."
+    },
+    {
+      "name": "Fresh Mango Juice",
+      "price": "5.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/c8g1DdT/Rectangle-3.png",
+      "description": "Fresh Mango Juice is a luscious and tropical beverage made from ripe mangoes, capturing the essence of summer in every sip. This refreshing drink offers a burst of sweet and tangy flavor, coupled with the irresistible aroma of fresh mangoes. "
+    }
+  ]
+}

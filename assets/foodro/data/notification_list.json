@@ -1,0 +1,44 @@
+{
+  "notification_list": [
+    {
+      "title": "Orders Cancelled!",
+      "message": "You have canceled an order at Burger Hut. We apologize for your inconvenience. We will try to improve our service next time \uD83E\uDD72",
+      "date": "21 Dec, 2022",
+      "time": "20:50 PM",
+      "isNew": true,
+      "image": "https://i.ibb.co/9Tt6vCX/Auto-Layout-Horizontal.png"
+    },
+    {
+      "title": "Orders Successful!",
+      "message": "You have placed an order at Burger Hut and paid $24. Your food will arrive soon. Enjoy our services \uD83D\uDE0A",
+      "date": "20 Dec, 2022",
+      "time": "10:52 AM",
+      "isNew": true,
+      "image": "https://i.ibb.co/RzSp02y/Auto-Layout-Horizontal-1.png"
+    },
+    {
+      "title": "New Services Available!",
+      "message": "You can now make multiple food orders at one time. You can also cancel your orders.",
+      "date": "20 Dec, 2022",
+      "time": "20:49 PM",
+      "isNew": false,
+      "image": "https://i.ibb.co/NFX8rqY/Auto-Layout-Horizontal-2.png"
+    },
+    {
+      "title": "Credit Card Connected!",
+      "message": "Your credit card has been successfully linked with Foodu. Enjoy our services.",
+      "date": "19 Dec, 2022",
+      "time": "20:50 PM",
+      "isNew": false,
+      "image": "https://i.ibb.co/RPqB9G3/Auto-Layout-Horizontal-3.png"
+    },
+    {
+      "title": "Account Setup Successful!",
+      "message": "Your account creation is successful, you can now experience our services.",
+      "date": "19 Dec, 2022",
+      "time": "20:50 PM",
+      "isNew": false,
+      "image": "https://i.ibb.co/Nnv7nNP/Auto-Layout-Horizontal-4.png"
+    }
+  ]
+}

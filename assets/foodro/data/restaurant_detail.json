@@ -1,0 +1,135 @@
+{
+  "cat_id": 1,
+  "name": "Big Garden Salad",
+  "distance": "1.2 km",
+  "price": "1.50",
+  "rating": 4.5,
+  "reviews": "19.k",
+  "isFavorite": true,
+  "isDiscount": true,
+  "image": "https://i.ibb.co/cQyd6gR/Mask-Group-11.png",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "address": "Grand City St. 100, New York, United States",
+  "latitude": 40.752655,
+  "longitude": -73.977295,
+  "user_reviews": [
+    {
+      "profile_image": "https://i.ibb.co/4tbHJWk/Type-Default-Component-Avatar.png",
+      "name": "Charolette Hanlin",
+      "ratting": 5.0,
+      "comment": "Excellent food. Menu is extensive and seasonal to a particularly high standard. Definitely fine dining \uD83D\uDE0D\uD83D\uDE0D",
+      "total_likes": 888,
+      "isLikeComment": true,
+      "days": "6 days ago"
+    },
+    {
+      "profile_image": "https://i.ibb.co/sb25C8s/Type-Default-Component-Avatar-1.png",
+      "name": "Darron Kulikowski",
+      "ratting": 4.0,
+      "comment": "This is my absolute favorite restaurant in. The food is always fantastic and no matter what I order I am always delighted with my meal! \uD83D\uDCAF\uD83D\uDCAF",
+      "total_likes": 500,
+      "isLikeComment": false,
+      "days": "2 weeks ago"
+    },
+    {
+      "profile_image": "https://i.ibb.co/bs62dqB/Ellipse.png",
+      "name": "Lauralee Quintero",
+      "ratting": 4.0,
+      "comment": "Delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to order here again and again \uD83D\uDC4C\uD83D\uDC4C",
+      "total_likes": 629,
+      "isLikeComment": true,
+      "days": "6 days ago"
+    }
+  ],
+  "timing": [
+    {
+      "days": "Monday - Friday",
+      "time": "10:00 - 22.00"
+    },
+    {
+      "days": "Saturday - Sunday",
+      "time": "12:00 - 20.00"
+    }
+  ],
+  "for_you": [
+    {
+      "qty": 0,
+      "name": "Mixed Vegetable Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": true,
+      "isNew": false,
+      "image": "https://i.ibb.co/3rCjxZ1/Mask-Group.png",
+      "description": "Mixed Vegetable Salad is a nutritious and colorful dish that combines a variety of fresh vegetables, tossed together with a zesty dressing, creating a refreshing and satisfying salad. This salad is versatile and can be customized based on the availability of seasonal vegetables and personal preferences. Packed with vitamins, minerals, and fiber, this salad is not only delicious but also promotes health and wellness"
+    },
+    {
+      "qty": 0,
+      "name": "Fruit & Spice Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/y6qFYJt/Rectangle.png",
+      "description": "Fruit & Spice Salad is a refreshing and flavorful dish that combines a variety of fresh fruits with a hint of warm spices, creating a delightful balance of sweet and savory flavors. This salad is perfect for any occasion, whether it's a light and healthy breakfast, a vibrant side dish for lunch, or a refreshing dessert option. With its colorful presentation and aromatic spices, this salad is sure to impress both family and guests alike."
+
+    }
+  ],
+  "menu_list": [
+    {
+      "name": "Special Bound Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": true,
+      "image": "https://i.ibb.co/NTTtcRg/Mask-Group-1.png",
+      "description": "The Special Bound Salad is a classic and elegant dish that beautifully combines a variety of fresh ingredients bound together with a creamy dressing, resulting in a harmonious blend of flavors and textures. This salad is perfect for special occasions, gatherings, or simply as a delightful treat for yourself. Its creamy texture and rich flavors make it a favorite among salad enthusiasts."
+    },
+    {
+      "name": "Special Pasta Salad",
+      "price": "10.50",
+      "isDiscount": true,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/FnV6h9S/Rectangle-1.png",
+      "description":"The Special Pasta Salad is a delightful and versatile dish that brings together tender pasta, crisp vegetables, savory proteins, and a flavorful dressing, creating a harmonious blend of textures and flavors. This salad is perfect for any occasion, whether it's a casual picnic, a potluck gathering, or a family dinner."
+    },
+    {
+      "name": "Mixed Caesar Salad",
+      "price": "10.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/McWBnrj/Mask-Group-2.png",
+      "description":"The Mixed Caesar Salad is a classic dish with a modern twist, featuring a blend of crisp romaine lettuce, assorted greens, flavorful toppings, and a creamy Caesar dressing. This salad is a delicious combination of textures and flavors, offering a perfect balance of crunchiness, creaminess, and tanginess."
+    }
+  ],
+  "drink_list": [
+    {
+      "name": "Fresh Avocado Juice",
+      "price": "4.00",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/SRyGnkj/Rectangle-2.png",
+      "description":"Fresh Avocado Juice is a creamy and nutritious beverage that offers a refreshing twist on traditional fruit juices. Made from ripe avocados, this smooth and velvety drink is packed with essential nutrients, including healthy fats, vitamins, and minerals, making it an excellent choice for promoting overall health and well-being. "
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "price": "4.00",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/w6SV1Z7/Mask-Group-3.png",
+      "description":"Fresh Orange Juice is a vibrant and invigorating beverage made from ripe oranges, bursting with natural sweetness and tangy citrus flavor. This refreshing drink is a classic choice for breakfast or anytime you crave a burst of vitamin C-rich goodness."
+    },
+    {
+      "name": "Fresh Mango Juice",
+      "price": "5.50",
+      "isDiscount": false,
+      "isBestSeller": false,
+      "isNew": false,
+      "image": "https://i.ibb.co/c8g1DdT/Rectangle-3.png",
+      "description":"Fresh Mango Juice is a luscious and tropical beverage made from ripe mangoes, capturing the essence of summer in every sip. This refreshing drink offers a burst of sweet and tangy flavor, coupled with the irresistible aroma of fresh mangoes. "
+    }
+  ]
+}
